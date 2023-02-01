@@ -8,7 +8,7 @@ any insiders have made any recent stock trades.
 
 Suppose the user wants to be notified of insider trades of Disney (NYSE: DIS). 
 
-They can add "DIS" to the watchlist by inserting the following line in to the main class 
+They can add "DIS" to the watchlist by inserting the following line into the main class 
 
 ![image](https://user-images.githubusercontent.com/105755993/216004644-d711eeca-46e1-4e16-9ed2-1345b2f2d339.png)
 
