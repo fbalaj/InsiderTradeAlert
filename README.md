@@ -1,4 +1,4 @@
-# InsiderTradeAlert
+# Insider Trade Alert
 
 A Java app that allows the user to create a stock watchlist and then notifies the user of any stock trades by an insider of a company in the watchlist.
 Uses the JSoup library to scrape recent SEC filings from https://finviz.com/insidertrading.ashx and uses the JavaMail API to send an email alert to the user if 
